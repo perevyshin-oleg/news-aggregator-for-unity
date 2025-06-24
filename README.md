@@ -1,2 +1,2 @@
-# News
+# News Aggregator for Unity
  
