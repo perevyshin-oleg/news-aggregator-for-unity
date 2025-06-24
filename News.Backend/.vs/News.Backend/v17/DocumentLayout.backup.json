@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\perev\\source\\repos\\News.Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29BAF6A6-FFBF-424B-954E-307A4F836AC8}|News.Application\\News.Application.csproj|c:\\users\\perev\\source\\repos\\news.backend\\news.application\\news\\commands\\updatenews\\updatenewsentitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BAF6A6-FFBF-424B-954E-307A4F836AC8}|News.Application\\News.Application.csproj|solutionrelative:news.application\\news\\commands\\updatenews\\updatenewsentitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DFF9D0-A6CE-4E1B-AEC3-9801CEED7259}|News.Tests\\News.Tests.csproj|c:\\users\\perev\\source\\repos\\news.backend\\news.tests\\news\\queries\\getnewslistqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DFF9D0-A6CE-4E1B-AEC3-9801CEED7259}|News.Tests\\News.Tests.csproj|solutionrelative:news.tests\\news\\queries\\getnewslistqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BAF6A6-FFBF-424B-954E-307A4F836AC8}|News.Application\\News.Application.csproj|c:\\users\\perev\\source\\repos\\news.backend\\news.application\\news\\commands\\createnews\\createnewsentitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BAF6A6-FFBF-424B-954E-307A4F836AC8}|News.Application\\News.Application.csproj|solutionrelative:news.application\\news\\commands\\createnews\\createnewsentitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BAF6A6-FFBF-424B-954E-307A4F836AC8}|News.Application\\News.Application.csproj|c:\\users\\perev\\source\\repos\\news.backend\\news.application\\news\\commands\\updatenews\\updatenewsentitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BAF6A6-FFBF-424B-954E-307A4F836AC8}|News.Application\\News.Application.csproj|solutionrelative:news.application\\news\\commands\\updatenews\\updatenewsentitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA01B2C-BCBF-43F7-8600-0BC917BD27FB}|News.Domain\\News.Domain.csproj|c:\\users\\perev\\source\\repos\\news.backend\\news.domain\\newsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA01B2C-BCBF-43F7-8600-0BC917BD27FB}|News.Domain\\News.Domain.csproj|solutionrelative:news.domain\\newsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BAF6A6-FFBF-424B-954E-307A4F836AC8}|News.Application\\News.Application.csproj|c:\\users\\perev\\source\\repos\\news.backend\\news.application\\news\\commands\\createnews\\createnewsentitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BAF6A6-FFBF-424B-954E-307A4F836AC8}|News.Application\\News.Application.csproj|solutionrelative:news.application\\news\\commands\\createnews\\createnewsentitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DFF9D0-A6CE-4E1B-AEC3-9801CEED7259}|News.Tests\\News.Tests.csproj|c:\\users\\perev\\source\\repos\\news.backend\\news.tests\\news\\commands\\createnewscommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DFF9D0-A6CE-4E1B-AEC3-9801CEED7259}|News.Tests\\News.Tests.csproj|solutionrelative:news.tests\\news\\commands\\createnewscommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DFF9D0-A6CE-4E1B-AEC3-9801CEED7259}|News.Tests\\News.Tests.csproj|c:\\users\\perev\\source\\repos\\news.backend\\news.tests\\common\\newscontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DFF9D0-A6CE-4E1B-AEC3-9801CEED7259}|News.Tests\\News.Tests.csproj|solutionrelative:news.tests\\common\\newscontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DFF9D0-A6CE-4E1B-AEC3-9801CEED7259}|News.Tests\\News.Tests.csproj|c:\\users\\perev\\source\\repos\\news.backend\\news.tests\\common\\testcommandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DFF9D0-A6CE-4E1B-AEC3-9801CEED7259}|News.Tests\\News.Tests.csproj|solutionrelative:news.tests\\common\\testcommandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 286,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetNewsListQueryHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Tests\\News\\Queries\\GetNewsListQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "News.Tests\\News\\Queries\\GetNewsListQueryHandlerTests.cs",
+              "ToolTip": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Tests\\News\\Queries\\GetNewsListQueryHandlerTests.cs",
+              "RelativeToolTip": "News.Tests\\News\\Queries\\GetNewsListQueryHandlerTests.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswBsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T20:16:32.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateNewsEntityCommand.cs",
+              "DocumentMoniker": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Application\\News\\Commands\\UpdateNews\\UpdateNewsEntityCommand.cs",
+              "RelativeDocumentMoniker": "News.Application\\News\\Commands\\UpdateNews\\UpdateNewsEntityCommand.cs",
+              "ToolTip": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Application\\News\\Commands\\UpdateNews\\UpdateNewsEntityCommand.cs",
+              "RelativeToolTip": "News.Application\\News\\Commands\\UpdateNews\\UpdateNewsEntityCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T20:15:19.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateNewsEntityCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Application\\News\\Commands\\UpdateNews\\UpdateNewsEntityCommandHandler.cs",
+              "RelativeDocumentMoniker": "News.Application\\News\\Commands\\UpdateNews\\UpdateNewsEntityCommandHandler.cs",
+              "ToolTip": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Application\\News\\Commands\\UpdateNews\\UpdateNewsEntityCommandHandler.cs",
+              "RelativeToolTip": "News.Application\\News\\Commands\\UpdateNews\\UpdateNewsEntityCommandHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T20:15:10.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewsEntity.cs",
+              "DocumentMoniker": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Domain\\NewsEntity.cs",
+              "RelativeDocumentMoniker": "News.Domain\\NewsEntity.cs",
+              "ToolTip": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Domain\\NewsEntity.cs",
+              "RelativeToolTip": "News.Domain\\NewsEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T20:14:27.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateNewsEntityCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Application\\News\\Commands\\CreateNews\\CreateNewsEntityCommandHandler.cs",
+              "RelativeDocumentMoniker": "News.Application\\News\\Commands\\CreateNews\\CreateNewsEntityCommandHandler.cs",
+              "ToolTip": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Application\\News\\Commands\\CreateNews\\CreateNewsEntityCommandHandler.cs",
+              "RelativeToolTip": "News.Application\\News\\Commands\\CreateNews\\CreateNewsEntityCommandHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAD4vxUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T20:14:22.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateNewsEntityCommand.cs",
+              "DocumentMoniker": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Application\\News\\Commands\\CreateNews\\CreateNewsEntityCommand.cs",
+              "RelativeDocumentMoniker": "News.Application\\News\\Commands\\CreateNews\\CreateNewsEntityCommand.cs",
+              "ToolTip": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Application\\News\\Commands\\CreateNews\\CreateNewsEntityCommand.cs",
+              "RelativeToolTip": "News.Application\\News\\Commands\\CreateNews\\CreateNewsEntityCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T20:14:04.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateNewsCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Tests\\News\\Commands\\CreateNewsCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "News.Tests\\News\\Commands\\CreateNewsCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Tests\\News\\Commands\\CreateNewsCommandHandlerTests.cs",
+              "RelativeToolTip": "News.Tests\\News\\Commands\\CreateNewsCommandHandlerTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T20:09:59.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewsContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Tests\\Common\\NewsContextFactory.cs",
+              "RelativeDocumentMoniker": "News.Tests\\Common\\NewsContextFactory.cs",
+              "ToolTip": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Tests\\Common\\NewsContextFactory.cs",
+              "RelativeToolTip": "News.Tests\\Common\\NewsContextFactory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T20:07:40.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestCommandBase.cs",
+              "DocumentMoniker": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Tests\\Common\\TestCommandBase.cs",
+              "RelativeDocumentMoniker": "News.Tests\\Common\\TestCommandBase.cs",
+              "ToolTip": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Tests\\Common\\TestCommandBase.cs",
+              "RelativeToolTip": "News.Tests\\Common\\TestCommandBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T20:07:30.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 89,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\perev\source\repos\News.Backend\News.Domain\bin\Debug\net8.0\News.Domain.deps.json
+C:\Users\perev\source\repos\News.Backend\News.Domain\bin\Debug\net8.0\News.Domain.dll
+C:\Users\perev\source\repos\News.Backend\News.Domain\bin\Debug\net8.0\News.Domain.pdb
+C:\Users\perev\source\repos\News.Backend\News.Domain\obj\Debug\net8.0\News.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perev\source\repos\News.Backend\News.Domain\obj\Debug\net8.0\News.Domain.AssemblyInfoInputs.cache
+C:\Users\perev\source\repos\News.Backend\News.Domain\obj\Debug\net8.0\News.Domain.AssemblyInfo.cs
+C:\Users\perev\source\repos\News.Backend\News.Domain\obj\Debug\net8.0\News.Domain.csproj.CoreCompileInputs.cache
+C:\Users\perev\source\repos\News.Backend\News.Domain\obj\Debug\net8.0\News.Domain.dll
+C:\Users\perev\source\repos\News.Backend\News.Domain\obj\Debug\net8.0\refint\News.Domain.dll
+C:\Users\perev\source\repos\News.Backend\News.Domain\obj\Debug\net8.0\News.Domain.pdb
+C:\Users\perev\source\repos\News.Backend\News.Domain\obj\Debug\net8.0\ref\News.Domain.dll

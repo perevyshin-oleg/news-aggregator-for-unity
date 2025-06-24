@@ -1,0 +1,15 @@
+C:\Users\perev\source\repos\News.Backend\News.Application\bin\Debug\net8.0\News.Application.deps.json
+C:\Users\perev\source\repos\News.Backend\News.Application\bin\Debug\net8.0\News.Application.dll
+C:\Users\perev\source\repos\News.Backend\News.Application\bin\Debug\net8.0\News.Application.pdb
+C:\Users\perev\source\repos\News.Backend\News.Application\bin\Debug\net8.0\News.Domain.dll
+C:\Users\perev\source\repos\News.Backend\News.Application\bin\Debug\net8.0\News.Domain.pdb
+C:\Users\perev\source\repos\News.Backend\News.Application\obj\Debug\net8.0\News.Application.csproj.AssemblyReference.cache
+C:\Users\perev\source\repos\News.Backend\News.Application\obj\Debug\net8.0\News.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perev\source\repos\News.Backend\News.Application\obj\Debug\net8.0\News.Application.AssemblyInfoInputs.cache
+C:\Users\perev\source\repos\News.Backend\News.Application\obj\Debug\net8.0\News.Application.AssemblyInfo.cs
+C:\Users\perev\source\repos\News.Backend\News.Application\obj\Debug\net8.0\News.Application.csproj.CoreCompileInputs.cache
+C:\Users\perev\source\repos\News.Backend\News.Application\obj\Debug\net8.0\News.App.0FED5841.Up2Date
+C:\Users\perev\source\repos\News.Backend\News.Application\obj\Debug\net8.0\News.Application.dll
+C:\Users\perev\source\repos\News.Backend\News.Application\obj\Debug\net8.0\refint\News.Application.dll
+C:\Users\perev\source\repos\News.Backend\News.Application\obj\Debug\net8.0\News.Application.pdb
+C:\Users\perev\source\repos\News.Backend\News.Application\obj\Debug\net8.0\ref\News.Application.dll
