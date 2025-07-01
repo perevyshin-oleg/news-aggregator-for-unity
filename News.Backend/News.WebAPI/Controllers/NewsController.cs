@@ -38,7 +38,7 @@ namespace News.WebAPI.Controllers
             return Ok(vm);
         }
 
-        [HttpPost]
+        [HttpPost("create")]
         public async Task<ActionResult<Guid>> Create([FromBody] CreateNewsDto createNewsDto)
         {
             CreateNewsEntityCommand command = _mapper.Map<CreateNewsEntityCommand>(createNewsDto);
@@ -47,8 +47,8 @@ namespace News.WebAPI.Controllers
             return Ok(noteId);
         }
 
-        [HttpPost]
-        public async Task<ActionResult<IActionResult>> Update([FromBody] UpdateNewsDto updateNewsDto)
+        [HttpPost("update")]
+        public async Task<IActionResult> Update([FromBody] UpdateNewsDto updateNewsDto)
         {
             UpdateNewsEntityCommand command = _mapper.Map<UpdateNewsEntityCommand>(updateNewsDto);
             command.UserId = UserId;
@@ -57,7 +57,7 @@ namespace News.WebAPI.Controllers
         }
 
         [HttpDelete("{id}")]
-        public async Task<ActionResult<IActionResult>> Delete(Guid id)
+        public async Task<IActionResult> Delete(Guid id)
         {
             DeleteNewsEntityCommand command = new DeleteNewsEntityCommand()
             {

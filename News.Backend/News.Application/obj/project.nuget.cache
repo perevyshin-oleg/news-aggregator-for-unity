@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aIPhSHAFmIk=",
+  "dgSpecHash": "qPx+l+5akBU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Application\\News.Application.csproj",
+  "projectFilePath": "C:\\Users\\perev\\tile-builder-server\\News\\News.Backend\\News.Application\\News.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\perev\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\perev\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
@@ -20,7 +20,17 @@
     "C:\\Users\\perev\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.6\\microsoft.extensions.logging.abstractions.9.0.6.nupkg.sha512",
     "C:\\Users\\perev\\.nuget\\packages\\microsoft.extensions.options\\9.0.6\\microsoft.extensions.options.9.0.6.nupkg.sha512",
     "C:\\Users\\perev\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.6\\microsoft.extensions.primitives.9.0.6.nupkg.sha512",
-    "C:\\Users\\perev\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.6\\system.diagnostics.diagnosticsource.9.0.6.nupkg.sha512"
+    "C:\\Users\\perev\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.6\\system.diagnostics.diagnosticsource.9.0.6.nupkg.sha512",
+    "C:\\Users\\perev\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.17\\microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\perev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.17\\microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\perev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.17\\microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Этот хост неизвестен. (api.nuget.org:443)"
+    }
+  ]
 }

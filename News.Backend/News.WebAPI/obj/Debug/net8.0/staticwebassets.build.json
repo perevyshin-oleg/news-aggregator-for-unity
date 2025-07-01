@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "aybhjngX6pqKqjnkyFFZcShV4kROPpdLOfOymfOMteo=",
-  "Source": "News.WebAPI",
-  "BasePath": "_content/News.WebAPI",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"gqwvvNE7abSh29bV9hlqdxbrMOPN3MZKtpHVZma5UCY=","Source":"News.WebAPI","BasePath":"_content/News.WebAPI","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

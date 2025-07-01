@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pMxJaHld//g=",
+  "dgSpecHash": "CusaX08dYmY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Domain\\News.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\perev\\tile-builder-server\\News\\News.Backend\\News.Domain\\News.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\perev\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.17\\microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\perev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.17\\microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\perev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.17\\microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

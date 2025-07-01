@@ -1,0 +1,21 @@
+# This is a generated file. Not intended for manual editing.
+version: "3.9"
+services:
+  news.webapi:
+    build:
+      context: "C:\\Users\\perev\\tile-builder-server\\News\\News.Backend"
+      dockerfile: "News.WebAPI/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net8.0/News.WebAPI.dll"
+    environment:
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "news.webapi:dev"
+    ports: []
+    volumes:
+    - "C:\\Users\\perev\\tile-builder-server\\News\\News.Backend\\News.WebAPI:/app:rw"
+    - "C:\\Users\\perev\\tile-builder-server\\News\\News.Backend:/src:rw"
+    - "C:\\Users\\perev\\.nuget\\packages:/home/app/.nuget/packages"
+    working_dir: "/app"

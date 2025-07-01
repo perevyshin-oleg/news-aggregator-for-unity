@@ -5,10 +5,10 @@ using News.Tests.Common;
 
 namespace News.Tests.News.Commands
 {
-    public class UpdateNewsCommandHandlerTests : TestCommandBase
+    public class DeleteNewsCommandHandlerTests : TestCommandBase
     {
         [Fact]
-        public async Task UpdateNewsCommandHandler_Success()
+        public async Task DeleteNewsCommandHandler_Success()
         {
             DeleteNewsEntityCommandHandler handler = new DeleteNewsEntityCommandHandler(Context);
 
@@ -45,7 +45,8 @@ namespace News.Tests.News.Commands
                 new CreateNewsEntityCommand()
                 {
                     Title = "NewsTitle",
-                    UserId = NewsContextFactory.UserAId
+                    UserId = NewsContextFactory.UserAId,
+                    Content = "NewsContent"
                 }, CancellationToken.None);
 
             await Assert.ThrowsAsync<NotFoundException>(async () =>

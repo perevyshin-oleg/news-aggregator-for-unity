@@ -15,7 +15,7 @@ namespace News.WebAPI.Middleware
             _next = next;
         }
 
-        public async void Invoke(HttpContext context)
+        public async Task Invoke(HttpContext context)
         {
             try
             {

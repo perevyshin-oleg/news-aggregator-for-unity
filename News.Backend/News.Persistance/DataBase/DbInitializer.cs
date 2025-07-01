@@ -1,4 +1,6 @@
-﻿namespace News.Persistance.DataBase;
+﻿using News.Application.Interfaces;
+
+namespace News.Persistance.DataBase;
 
 public class DbInitializer
 {

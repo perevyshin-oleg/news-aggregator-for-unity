@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Domain\\News.Domain.csproj": {}
+    "C:\\Users\\perev\\tile-builder-server\\News\\News.Backend\\News.Domain\\News.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Domain\\News.Domain.csproj": {
+    "C:\\Users\\perev\\tile-builder-server\\News\\News.Backend\\News.Domain\\News.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Domain\\News.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\perev\\tile-builder-server\\News\\News.Backend\\News.Domain\\News.Domain.csproj",
         "projectName": "News.Domain",
-        "projectPath": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Domain\\News.Domain.csproj",
+        "projectPath": "C:\\Users\\perev\\tile-builder-server\\News\\News.Backend\\News.Domain\\News.Domain.csproj",
         "packagesPath": "C:\\Users\\perev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\perev\\source\\repos\\News.Backend\\News.Domain\\obj\\",
+        "outputPath": "C:\\Users\\perev\\tile-builder-server\\News\\News.Backend\\News.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\perev\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,7 +40,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -56,12 +57,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.17, 8.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.17, 8.0.17]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.17, 8.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

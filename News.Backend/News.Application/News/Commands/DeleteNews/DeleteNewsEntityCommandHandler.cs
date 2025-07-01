@@ -20,7 +20,9 @@ namespace News.Application.News.Commands.DeleteNews
             NewsEntity? newsEntity = await _dbContext.News
                 .FirstOrDefaultAsync(note => note.Id == request.NewsId, cancellationToken);
 
-            if (newsEntity == null || newsEntity.Id != request.NewsId)
+            if (newsEntity == null 
+                || newsEntity.Id != request.NewsId
+                || newsEntity.UserId != request.UserId)
             {
                 throw new NotFoundException(nameof(NewsEntity), request.NewsId);
             }

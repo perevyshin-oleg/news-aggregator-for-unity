@@ -6,19 +6,21 @@ using News.Tests.Common;
 
 namespace News.Tests.News.Commands
 {
-    public class DeleteNewsCommandHandlerTests : TestCommandBase
+    public class UpdateNewsCommandHandlerTests : TestCommandBase
     {
         [Fact]
         public async Task UpdateNewsCommandHandler_Success()
         {
             UpdateNewsEntityCommandHandler handler = new UpdateNewsEntityCommandHandler(Context);
             string updateTitle = "updated title";
+            string updateContent = "updated content";
 
             await handler.Handle(new UpdateNewsEntityCommand
             {
                 NewsId = NewsContextFactory.NewsIdForUpdate,
-                UserId = NewsContextFactory.UserAId,
-                Title = updateTitle
+                UserId = NewsContextFactory.UserBId,
+                Title = updateTitle,
+                Content = updateContent
             }, CancellationToken.None);
 
             Assert.NotNull(Context.News.SingleOrDefault(news =>
@@ -44,7 +46,6 @@ namespace News.Tests.News.Commands
         {
             UpdateNewsEntityCommandHandler handler = new UpdateNewsEntityCommandHandler(Context);
             
-
             await Assert.ThrowsAsync<NotFoundException>(async () =>
                 await handler.Handle(
                 new UpdateNewsEntityCommand()
