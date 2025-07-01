@@ -1,3 +1,4 @@
+using System.Collections.Immutable;
 using News.Application;
 using News.Application.Interfaces;
 using News.Backend.Infrastructure.Persistence;
@@ -5,13 +6,24 @@ using News.Persistance.DataBase;
 using News.WebAPI.Middleware;
 using System.Reflection;
 using Microsoft.OpenApi.Models;
+using News.WebAPI.Services;
+using Serilog;
+using Serilog.Events;
+
+Log.Logger = new LoggerConfiguration()
+    .MinimumLevel.Override("Microsoft", LogEventLevel.Information)
+    .WriteTo.File("NewsWebAppLog-.txt", rollingInterval: RollingInterval.Day)
+    .CreateLogger();
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Host.UseSerilog();
 
 builder.Services.AddAutoMapper(
     Assembly.GetExecutingAssembly(),
     typeof(INewsDbContext).Assembly);
 
+builder.Services.AddSingleton<ICurrentUserService, CurrentUserService>();
+builder.Services.AddHttpContextAccessor();
 builder.Services.AddPersistence(builder.Configuration);
 builder.Services.AddApplication();
 builder.Services.AddControllers();
@@ -39,8 +51,7 @@ using (var scope = app.Services.CreateScope())
     }
     catch (Exception ex)
     {
-        var logger = scope.ServiceProvider.GetRequiredService<ILogger<Program>>();
-        logger.LogError(ex, "An error occurred while initializing the database.");
+        Log.Fatal(ex, "An error occurred while initializing the database.");
     }
 }
 
